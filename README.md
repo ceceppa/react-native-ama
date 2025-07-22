@@ -68,6 +68,7 @@ export const App = () => {
 You can use the playground app within this repository to see how AMA checks work in practice.
 The playground can also be used to learn how to fix accessibility issues in your app.
 
+<img width="50%" alt="A screenshot of AMA Playground testing pressable elements" src="https://github.com/user-attachments/assets/60c686a2-3a71-4f9a-954c-1378d249544e" />
 
 ## 📃 [Documentation](https://commerce.nearform.com/open-source/react-native-ama)
 
